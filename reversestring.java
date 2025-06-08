@@ -2,7 +2,7 @@ public class reversestring {
     
     public static void main(String[] args) {
         
-        // 1)  Using +(String Concatation) Opeartor
+        // 1).Using +(String Concatation) Opeartor
 
         String str="Abhishek";
         String rev="";
