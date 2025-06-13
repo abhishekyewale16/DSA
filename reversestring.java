@@ -7,14 +7,14 @@ public class reversestring {
         String str="Abhishek";
         String rev="";
 
-        /*int len=str.length();
+        int len=str.length();
 
         for (int i =len-1; i>=0;i--)
         {
             rev=rev+str.charAt(i);
         }
         System.out.println("Revrsed String is :"+rev);
-        */
+        
 
         //2. Using Character Array
         /* 
@@ -27,9 +27,10 @@ public class reversestring {
         */
 
         // 3. Using String Buffer Class
-
+        /* 
         StringBuffer sb= new StringBuffer(str);
         System.out.println(sb.reverse());
+        */
 
     }
 }
