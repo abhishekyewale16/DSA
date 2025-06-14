@@ -13,6 +13,7 @@ public class countnumberdigits  {
             num2++;    
         }
 
-        System.out.println("Count of Number = " + num2);  // Print the result
+        System.out.println("Count of Number = " + num2); 
+        sc.close();
     }
 }
