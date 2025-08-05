@@ -3,8 +3,8 @@ public class genraterandomnumbres{
 
     public static void main(String[] args) {
         
-        // Approch 1
-        /* 
+         //Approch 1
+        
         Random rand=new Random();
 
         int rand_int=rand.nextInt(999);
@@ -13,7 +13,7 @@ public class genraterandomnumbres{
 
         double rand_dbl = rand.nextDouble() * 1000;
         System.out.println("The Rand Double is :"+ rand_dbl);
-        */
+        
 
         // Approcah 2
         System.out.println(Math.random());
